@@ -127,4 +127,4 @@ The output demonstrates the Client connecting to the Server, sending commands, a
 This project showcases the implementation of a basic Client-Server architecture using C and socket programming in a Linux environment. The practical experience gained in network programming and system commands execution is invaluable for developing robust network applications.
 
 📚 References
-PROTECO. (n.d.). Sockets TCP/IP. Retrieved December 4, 2023, from UNAM.
+PROTECO. (n.d.). Sockets TCP/IP. Retrieved December 4, 2023, from UNAM.v
